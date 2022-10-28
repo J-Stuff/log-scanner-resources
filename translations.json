@@ -2,7 +2,6 @@
     "Crash!!!": "(!) WARNING (!) | The Game Detected a Crash! Ask the user for their crash.dmp's and crash logs",
     "Missing **FALLBACK** translation!": "Note | Some translations are missing",
     "Tried to get translation from nonexistent file": "Note | Some translations are missing",
-    "WARNING: Shader Unsupported": "(i) Caution (i) | User's GPU may be below minimum requirements",
     "The referenced script on this Behaviour": "Note | Some game files are missing. Try a Clean Reinstall",
     "Private beta: True": "(!) WARNING (!) | User is on a PRIVATE BETA",
     "Private beta: true": "(!) WARNING (!) | User is on a PRIVATE BETA",
