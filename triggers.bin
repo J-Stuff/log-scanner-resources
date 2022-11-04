@@ -27,3 +27,4 @@ CentralAuthManager:Authentication()
 OS: Windows 11
 OS: Windows 7
 OS: Windows 8
+d3d11: swapchain SetFullscreenState failed
