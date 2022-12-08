@@ -23,12 +23,13 @@
     "Can't update central servers list!": "(!) WARNING (!) | Can't update central servers list!",
     "Changed central server: Primary API (https://api.scpslgame.com/)": "(i) Caution (i) | Changed central server: Primary API (https://api.scpslgame.com/)",
     "Authentication error (authenticate - response): [Auth Error] 5B/": "(!) WARNING (!) | Invalid Response Sent from Centrals. [ERROR 5B/...]",
-    "Authentication error (authenticate - inner web)": "(!) WARNING (!) | Client Failed to Authenticate! (authenticate - inner web) {NOTE: This is caused by Centrals being dumb. Try a clean-reinstall. If that doesn't work, inform a SYS-Admin that Centrals aren't authenticating users!} {NOTE: This can also be caused by a Failed attempt at authenticating via Discord (with the -fdiscord launch arg). But a sys-admin should always be informed if this error EVER prints!}",
+    "Authentication error (authenticate - inner web)": "(!) WARNING (!) | Client Failed to Authenticate! (authenticate - inner web) [NOTE: This is caused by Centrals being dumb. Try a clean-reinstall. If that doesn't work, inform a SYS-Admin that Centrals aren't authenticating users!] [NOTE: This can also be caused by a Failed attempt at authenticating via Discord (with the -fdiscord launch arg). But a sys-admin should always be informed if this error EVER prints!]",
     "CentralAuthManager:Authentication()": "(!) WARNING (!) | Client Failed to Authenticate! (CentralAuthManager:Authentication())",
     "OS: Windows 11": "(i) Caution (i) | User's OS is Windows 11",
     "OS: Windows 7": "(!) WARNING (!) | User's OS is Windows 7. This version of Windows is unsupported!",
     "d3d11: swapchain SetFullscreenState failed": "(i) Caution (i) | Game failed to switch to SetFullscreenState (Failed to set display to Full-screen)",
     "DllNotFoundException: Unable to load DLL 'GpuDriver.dll': The specified module could not be found.": "(!) WARNING (!) | Unable to load user's GPU drivers!!!",
     "DecoderFactory: Encountered unexpected error creating decoder. Audio playback will be disabled.": "(!) WARNING (!) | Dissonance failure! Audio decoder failure. Audio playback will be disabled.",
-    "CapturePipelineManager: Unexpected exception encountered starting microphone capture; local voice transmission will be disabled": "(!) WARNING (!) | Dissonance failure! Failed to start microphone capture. Local voice transmission will be disabled!"
+    "CapturePipelineManager: Unexpected exception encountered starting microphone capture; local voice transmission will be disabled": "(!) WARNING (!) | Dissonance failure! Failed to start microphone capture. Local voice transmission will be disabled!",
+    "Unknown message ID": "(!) WARNING (!) | A critical unknown error as occurred with the game runtime! Please inform a game developer if this error EVER triggers!!!"
 }

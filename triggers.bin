@@ -31,3 +31,4 @@ d3d11: swapchain SetFullscreenState failed
 DllNotFoundException: Unable to load DLL 'GpuDriver.dll': The specified module could not be found.
 DecoderFactory: Encountered unexpected error creating decoder. Audio playback will be disabled.
 CapturePipelineManager: Unexpected exception encountered starting microphone capture; local voice transmission will be disabled
+Unknown message ID
