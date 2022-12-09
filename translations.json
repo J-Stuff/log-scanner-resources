@@ -10,7 +10,7 @@
     "Release candidate: true": "(!) WARNING (!) | User is on a RELEASE CANDIDATE",
     "========== OUTPUTTING STACK TRACE ==================": "(!) WARNING (!) | The Game Detected a Crash! Ask the user for their crash.dmp's and crash logs",
     "A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:": "(!) WARNING (!) | The Game Detected a Crash! Ask the user for their crash.dmp's and crash logs",
-    "Authentication error (authenticate - response): [Auth Error] 1B3/": "(!) WARNING (!) | Invalid Response Sent from Centrals. [ERROR 1B3/...]",
+    "Authentication error (authenticate - response): [Auth Error] 1B3/": "(!) WARNING (!) | Invalid Response Sent from Centrals. [ERROR 1B3/...] (See https://discord.com/channels/330432627649544202/727217050807828550/1050473200481484842)",
     "Modded: True": "(!) WARNING (!) | Client Logs are Self-Indicating that the client is modded!",
     "Switched to HttpProxy": "(i) Caution (i) | Client Automatically switched to HttpProxy to connect to Centrals",
     "HttpProxy successfully initialized!": "Note | HttpProxy successfully initialized",
