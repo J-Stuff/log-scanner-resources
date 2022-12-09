@@ -30,6 +30,5 @@
     "d3d11: swapchain SetFullscreenState failed": "(i) Caution (i) | Game failed to switch to SetFullscreenState (Failed to set display to Full-screen)",
     "DllNotFoundException: Unable to load DLL 'GpuDriver.dll': The specified module could not be found.": "(!) WARNING (!) | Unable to load user's GPU drivers!!!",
     "DecoderFactory: Encountered unexpected error creating decoder. Audio playback will be disabled.": "(!) WARNING (!) | Dissonance failure! Audio decoder failure. Audio playback will be disabled.",
-    "CapturePipelineManager: Unexpected exception encountered starting microphone capture; local voice transmission will be disabled": "(!) WARNING (!) | Dissonance failure! Failed to start microphone capture. Local voice transmission will be disabled!",
-    "Unknown message ID": "(!) WARNING (!) | A critical unknown error as occurred with the game runtime! Please inform a game developer if this error EVER triggers!!!"
+    "CapturePipelineManager: Unexpected exception encountered starting microphone capture; local voice transmission will be disabled": "(!) WARNING (!) | Dissonance failure! Failed to start microphone capture. Local voice transmission will be disabled!"
 }
