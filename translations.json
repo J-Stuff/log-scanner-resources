@@ -27,6 +27,7 @@
     "CentralAuthManager:Authentication()": "(!) WARNING (!) | Client Failed to Authenticate! (CentralAuthManager:Authentication())",
     "OS: Windows 11": "(i) Caution (i) | User's OS is Windows 11",
     "OS: Windows 7": "(!) WARNING (!) | User's OS is Windows 7. This version of Windows is unsupported!",
+    "OS: Windows 8": "(i) Caution (i) | User's OS is Windows 8",
     "d3d11: swapchain SetFullscreenState failed": "(i) Caution (i) | Game failed to switch to SetFullscreenState (Failed to set display to Full-screen)",
     "DllNotFoundException: Unable to load DLL 'GpuDriver.dll': The specified module could not be found.": "(!) WARNING (!) | Unable to load user's GPU drivers!!!",
     "DecoderFactory: Encountered unexpected error creating decoder. Audio playback will be disabled.": "(!) WARNING (!) | Dissonance failure! Audio decoder failure. Audio playback will be disabled.",
