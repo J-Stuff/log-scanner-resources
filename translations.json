@@ -31,5 +31,6 @@
     "d3d11: swapchain SetFullscreenState failed": "(i) Caution (i) | Game failed to switch to SetFullscreenState (Failed to set display to Full-screen)",
     "DllNotFoundException: Unable to load DLL 'GpuDriver.dll': The specified module could not be found.": "(!) WARNING (!) | Unable to load user's GPU drivers!!!",
     "DecoderFactory: Encountered unexpected error creating decoder. Audio playback will be disabled.": "(!) WARNING (!) | Dissonance failure! Audio decoder failure. Audio playback will be disabled.",
-    "CapturePipelineManager: Unexpected exception encountered starting microphone capture; local voice transmission will be disabled": "(!) WARNING (!) | Dissonance failure! Failed to start microphone capture. Local voice transmission will be disabled!"
+    "CapturePipelineManager: Unexpected exception encountered starting microphone capture; local voice transmission will be disabled": "(!) WARNING (!) | Dissonance failure! Failed to start microphone capture. Local voice transmission will be disabled!",
+    "Steam not initialized.": "(!) WARNING (!) | Steam is not running. Or, if it is running. It's not allowing SCP:SL to hook into steamworks. A clean reinstall of steam may help: https://help.steampowered.com/en/faqs/view/3C73-90F9-F600-0266"
 }
